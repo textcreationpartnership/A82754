@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the several proceedings of both Houses of Parliament, vvith those in the county of Kent now in arms against the authority of Parliament, manifesting their desires and endeavors for the avoiding of the effusion of blood. Ordered by the Commons assembled in Parliament, that this declaration and proceedings concerning the business of Kent by printed and puiblished. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82754</idno>
+            <idno type="STC">Wing E1512</idno>
+            <idno type="STC">Thomason E446_1</idno>
+            <idno type="STC">ESTC R204810</idno>
+            <idno type="EEBO-CITATION">99864273</idno>
+            <idno type="PROQUEST">99864273</idno>
+            <idno type="VID">116498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116498)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the several proceedings of both Houses of Parliament, vvith those in the county of Kent now in arms against the authority of Parliament, manifesting their desires and endeavors for the avoiding of the effusion of blood. Ordered by the Commons assembled in Parliament, that this declaration and proceedings concerning the business of Kent by printed and puiblished. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 5. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116498:1"/>
+            <pb facs="tcp:116498:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Several Proceedings of both Houſes OF PARLIAMENT, VVith thoſe in the County of KENT Now in Arms againſt the Au<g ref="char:EOLhyphen"/>thority of Parliament, Manifeſting their Deſires and Endeavors for the avoid<g ref="char:EOLhyphen"/>ing of the Effuſion of Blood.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Declaration and proceedings concerning the buſineſs of <hi>Kent</hi> be Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>June</hi> 5. 1648.</p>
+            <pb facs="tcp:116498:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:116498:2"/>
+            <head>A DECLARATION OF The ſeveral Proceedings of both Houſes of Parliament, with thoſe in the County of <hi>Kent,</hi> now in Arms againſt the Authority of Parlia<g ref="char:EOLhyphen"/>ment; Manifeſting their Deſires and Endeavors for the avoiding the effuſion of Blood.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Houſe of Commons had no<g ref="char:EOLhyphen"/>tice on Monday the 22 of May laſt, of the Tumults and Inſurrections in the County of <hi>Kent,</hi> both by ſome of their own Members, as alſo by a Letter
+<pb n="4" facs="tcp:116498:3"/>
+from the Major and others then at <hi>Rocheſter,</hi> wherein they intimate, That the chief ground of the Riſing there, was a Rumor given forth, That a Regiment of Horſe and Foot was ſent for by the Committee, to ſuppreſs a Petition intended to be preſented to the Houſe; and deſire, That thoſe Forces might be ſtopt from coming into that coun<g ref="char:EOLhyphen"/>ty; and, That the extraordinary charges of that City may be taken into conſideration; upon which they promiſe Obedience and conformity, as well to the late Ordinance touching the manner of Addreſſes to the Houſes by Petitioners, as otherwiſe. Upon conſideration of the ſaid Letter, the Houſe appointed a day for the bringing in the Re<g ref="char:EOLhyphen"/>port concerning the ſaid Charges, and ſent down Three of their own Members, Gen<g ref="char:EOLhyphen"/>tlemen of that County, to uſe their Endea<g ref="char:EOLhyphen"/>vors for the pacifying of thoſe Tumults; with a Letter from the Speaker to the Ma<g ref="char:EOLhyphen"/>jor and other Gentlemen then at <hi>Rocheſter,</hi> where the Tumults firſt began: which Let<g ref="char:EOLhyphen"/>ter is as followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:116498:3"/>
+                  <head>A Letter to the Mayor and other Gentlemen of <hi>Rocheſter.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>UPon the reading of your Letter in the Houſe, they have commanded me to return this Anſwer, That it never was their inten<g ref="char:EOLhyphen"/>tion to ſend any Force into that County to ſuppreſs Petitioning, but onely to diſperſe ſuch as ſhould Tumultuouſly aſſemble, under pretence of bring<g ref="char:EOLhyphen"/>ing up Petitions to the Houſe, to diſturb the Peace of the County and Kingdom, and to offer violence to the freedom of Parliament: But ſince both by your Letter, and the Relation of Captain <hi>Lee</hi> and Captain <hi>Weſtrow,</hi> they are ſatisfied of your readineſs to yield obedience to the late Declaration of Par<g ref="char:EOLhyphen"/>liament, directing the maner of preſenting Petitions, they have put a ſtop upon the marching of thoſe For<g ref="char:EOLhyphen"/>ces into that County, ſo as they ſhall not advance thi<g ref="char:EOLhyphen"/>ther, unleſs we be neceſſitated to give further Order, by any more Tumultuous Aſſemblies of that City or County. This being all I have in Command, I reſt.</p>
+                  <closer>
+                     <dateline>
+                        <date>22 Maii, 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe three Gentlemen coming into that County, did their beſt to quiet the County, but could effect nothing but a Ceſſation,
+<pb n="6" facs="tcp:116498:4"/>
+from Wedneſday the 24 of May till Satur<g ref="char:EOLhyphen"/>day following, 5 of the clock; during which time, the Inſurrection did increaſe to far greater numbers.</p>
+            <p>While thoſe Gentlemen were in the coun<g ref="char:EOLhyphen"/>trey, the Earl of <hi>Thanet</hi> deſiring the Peace of that his native County, on the Wedneſday aforeſaid did apply himſelf to the Earl of <hi>Pembroke,</hi> Lord Lieutenant of that County, to deſire him to accompany him to the Committee of Lords and Commons at Derby-houſe, which he did accordingly; and the Earl of <hi>Thanet</hi> made ſeveral Propoſitions to that Committee, which he ſaid he was very hopeful would, being granted, remove the Diſtempers there; and he declared, That what he heard from ſome of the Gentlemen then in arms gave him this hope. The Committee after much conference with the ſaid Earl, reſolved upon ſome Inſtructions to be given to him, which on Thurſday morning they reported to both Houſes, who then paſſed them, which are as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb n="7" facs="tcp:116498:4"/>
+                        <head>INSTRUCTIONS FOR THE RIGHT HONORABLE <hi>John</hi> Earl of <hi>Thanet,</hi> upon Propoſitions by him offered, concerning appeaſing the Tu<g ref="char:EOLhyphen"/>mults in <hi>KENT.</hi>
+                        </head>
+                        <p n="1">I. <hi>YOur Lordſhip is deſired to declare to thoſe that are lately riſen in</hi> Kent, <hi>That the Houſes have lately publiſhed a Declaration con<g ref="char:EOLhyphen"/>cerning Petitions to be brought to the Houſes, which is herewith delivered unto your Lordſhip: That when they have delivered up the Towns, Maga<g ref="char:EOLhyphen"/>zines and Arms that they have ſeized, and ſhall be retired peaceably to their Houſes, they may bring and preſent a Petition to the Houſes, according to the ſaid Declaration.</hi>
+                        </p>
+                        <p n="2">II. <hi>Your Lordſhip ſhall alſo declare unto them, That upon their immediate disbanding and depart<g ref="char:EOLhyphen"/>ing home quietly to their houſes, they ſhall have Indempnity for what is paſt.</hi>
+                        </p>
+                        <p n="3">
+                           <pb n="8" facs="tcp:116498:5"/>
+III. <hi>Your Lordſhip is alſo deſired to return to the Houſes, between this and Saturday morning, an Anſwer, whether they do give obedience to the Parliament in laying down their Arms, delivering up the Magazines, and repairing quietly to their own houſes.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The ſaid Earl going into <hi>Kent</hi> with the Inſtructions, promiſed his return on Satur<g ref="char:EOLhyphen"/>day morning, which he did accordingly; and then brought a Letter from the Gentlemen in the County, that were then ingaged: wherein they promiſed an Anſwer by my Lord of <hi>Thanet</hi> at five of the clock in the af<g ref="char:EOLhyphen"/>ternoon; but none came that day, though the Committee ſate late, expecting it. But on the Lords day in the afternoon, Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Peyton</hi> Baronet, one of the ingaged Gen<g ref="char:EOLhyphen"/>tlemen, brought a Letter to the Committee at Derby-houſe, the Earl of <hi>Thanet</hi> not co<g ref="char:EOLhyphen"/>ming with it, for what Reaſons it is not known: The Letter is as followeth;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="9" facs="tcp:116498:5"/>
+                  <head>To the Right Honorable, The Committee of Lords and Com<g ref="char:EOLhyphen"/>mons at <hi>Derby-houſe.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lords,</salute>
+                  </opener>
+                  <p>WE have ſeen the Inſtructions from your Lordſhips to the Right Honorable the Earl of <hi>Thanet;</hi> Upon conſideration of which, we have thought fit to return this Anſwer to your Lordſhips,</p>
+                  <p>That we have cauſe to believe, there are many perſons now about your Lordſhips, who endeavor to infuſe into you, very ſiniſter opinions of our pro<g ref="char:EOLhyphen"/>ceedings, in relation to the ſafety of this County at this time; who, when we ſhall be admitted to a fair and equal hearing, will appear to be the greateſt Di<g ref="char:EOLhyphen"/>ſturbers thereof themſelves. And that our inten<g ref="char:EOLhyphen"/>tions are free from all other ends then Natural De<g ref="char:EOLhyphen"/>fence, We humbly beſeech your Lordſhips to un<g ref="char:EOLhyphen"/>derſtand, That we are in a firm Reſolution to obſerve the Declaration of the Houſes; and for the maner of preſenting our Petitions and Complaints will fol<g ref="char:EOLhyphen"/>low the Directions in the ſaid Declaration. But ſa<g ref="char:EOLhyphen"/>ving to our ſelves always the liberty of preſerving the moſt ancient and inviolate Freedoms of this County, We muſt deſire your Lordſhips to put a fair interpretation upon our purpoſes of continuing within the ſafeguard of our Arms, till we have aſ<g ref="char:EOLhyphen"/>ſurances from your Lordſhips, that the clamors of thoſe above againſt us, have had no ſucceſs in their
+<pb n="10" facs="tcp:116498:6"/>
+enraged Deſign of engaging this County in Blood and Ruine, when they finde never ſo ſmall a dimi<g ref="char:EOLhyphen"/>nution of their Arbitrary power, ſo long exerciſed over us, endeavored to be taken from them; not doubting but upon the preſentation and fair rece<g ref="char:EOLhyphen"/>ption of our Petition and juſt Complaints, the Hou<g ref="char:EOLhyphen"/>ſes will give ſuch ſeaſonable relief therein, as will abundantly diſcover the inclination of this County to Peace and Amity.</p>
+                  <p>My Lords, This is the Accompt we can give you of this County by the hands of the noble Lord the Earl of <hi>Thanet,</hi> whom alſo we have deſired to inform your Lordſhips further, That our preſent poſture tends not to offer violence to the Parliament, nor ſuffers acts willingly unbeſeeming our fair in<g ref="char:EOLhyphen"/>tentions; but do and ſhall take ſtrict care to repreſs, whereſoever we finde it, the incenſed Spirit we ſee in the people: which how it hath been raiſed, we ſhal in due time be able to make appear, and ſo we reſt</p>
+                  <closer>
+                     <salute>My Lords,</salute>
+                     <signed>Your Lordſhips moſt humble Servants,
+<list>
+                           <item>Thomas Peyton.</item>
+                           <item>John Darel.</item>
+                           <item>Thomas Palmer.</item>
+                           <item>Ja: Hales.</item>
+                           <item>Thomas Hardres.</item>
+                           <item>George Newman.</item>
+                           <item>Thomas Godfrey.</item>
+                           <item>Matthew Hammon.</item>
+                           <item>Iames Newman.</item>
+                           <item>Tho: Cau<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>top.</item>
+                           <item>Edward Whitton.</item>
+                           <item>Will: Hugeſſen.</item>
+                           <item>Richard Lee <hi>jun.</hi>
+                           </item>
+                           <item>Tho: Engeham.</item>
+                           <item>Iames Darel.</item>
+                           <item>R: Wilkinſon.</item>
+                           <item>Ed: Roberts.</item>
+                           <item>Phil: Wareld <hi>Mayor of Rocheſter.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="11" facs="tcp:116498:6"/>
+It muſt not be omitted, That before this, ſomething more was done by the Houſe of Commons, to ſhew their deſire of prevent<g ref="char:EOLhyphen"/>ing bloodſhed; On Saturday about five in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fternoon, one Mr. <hi>Sherman</hi> Miniſter of Lee near Detford came to the Houſe, in<g ref="char:EOLhyphen"/>forming them, That he had been with ſome of the Commanders thereabouts, and de<g ref="char:EOLhyphen"/>manded of them what they deſired, or would give them ſatisfaction: They an<g ref="char:EOLhyphen"/>ſwered him, That they would be quiet, ſo they might have an Indempnity for what they had done. The Houſe hoping that by this they might be pacified without force, gave to Mr. <hi>Sherman</hi> the Inſtructions in<g ref="char:EOLhyphen"/>ſuing, of which no account hath been given.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>INSTRUCTIONS For Mr. <hi>Abraham Sherman</hi> Mini<g ref="char:EOLhyphen"/>ſter at <hi>Lee.</hi>
+                        </head>
+                        <p>YOu are deſired to declare to thoſe that are lately riſen about <hi>Greenwich</hi> and <hi>Detford,</hi> That the Houſes have lately publiſhed a Declaration con<g ref="char:EOLhyphen"/>cerning Petitions to be brought to the Houſes;
+<pb n="12" facs="tcp:116498:7"/>
+That when they have delivered up the Towns, Ma<g ref="char:EOLhyphen"/>gazines and Arms that they have ſeized, and ſhall be retired peaceably to their houſes, they may bring and preſent a Petition to the Houſes, according to the ſaid Declaration.</p>
+                        <p>You ſhall alſo declare unto them, That upon their disbanding and departing home quietly to their houſes before two of the clock to morrow morning, they ſhall have Indempnity for what is paſt.</p>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>27 May, 1648.</date>
+                              </dateline>
+                           </opener>
+                           <p>REported from the Committee at Derby-houſe, read, and upon the Queſtion aſſented, and Ordered to be preſently Sign<g ref="char:EOLhyphen"/>ed, and ſent a way with Mr. <hi>Sherman.</hi>
+                           </p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>On Monday the 29 of May laſt, The Let<g ref="char:EOLhyphen"/>ter was reported to the Houſes that Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Peyton</hi> brought, which being read and conſidered of, The Houſes ſeeing all their former Endeavors for an Accommodation fruitleſs, and the reſolution of the ingaged party in that County to continue in Arms, without and againſt their Authority: And being informed, that by the ſaid party
+<pb n="13" facs="tcp:116498:7"/>
+ſome Maritine Forts were ſurprized, others beleaguer'd, and divers Ships in the ſervice of the Parliament withdrawn from their Obedience: The ſaid Houſes, in diſcharge of their duty, and care of the Peace and Safety of the Kingdom, paſſed this inſu<g ref="char:EOLhyphen"/>ing Vote:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 29 Maii, 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment do Declare, That they do leave the whole managing of the Buſineſs of <hi>Kent</hi> to the General.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After which Vote, the General marching into the County, The Houſe received infor<g ref="char:EOLhyphen"/>mation, that thoſe in Arms there ſent a Trumpeter to the General, deſiring him to grant a Paſs to their Commiſsioners, to Treat according to Order of Parliament: which Trumpeter ſaid, That Squire <hi>Hales</hi> was their General, Sir <hi>Thomas Peyton</hi> Lieute<g ref="char:EOLhyphen"/>nant General, and Sir <hi>Iohn Many</hi> Major Ge<g ref="char:EOLhyphen"/>neral. His Excellency returned Anſwer by
+<pb n="14" facs="tcp:116498:8"/>
+a Trumpeter of his own, That whileſt they continued in Arms without and againſt the Authority of Parliament, and doing acts of Hoſtility, to the diſturbance of the peace of that County, he could not admit of a Treaty, nor loſe time in proſecution of them; But if they ſhall forthwith lay down Arms, and diſperſe themſelves, he doubted not of the Mercy of the Parliament to thoſe who are abuſed and deluded; and of their Juſtice againſt ſuch onely as ſhall appear to have bin the chief and moſt eminent Actors and Fomentors of this Rebellion.</p>
+            <p>By this that hath bin done, all men may ſee That the Endeavors of both Houſes, in tranſacting of this buſineſs, did manifeſtly tend to peace; and that if they had bin in any meaſure really complyed with, There might have been an happy ſettlement and compo<g ref="char:EOLhyphen"/>ſure in that County before any Ingage<g ref="char:EOLhyphen"/>ment.</p>
+            <p>A Narrative of theſe Proceedings hath been lately made by Members of both Hou<g ref="char:EOLhyphen"/>ſes by their command, To the Lord Major, Aldermen, and Common-Councel of the
+<pb n="15" facs="tcp:116498:8"/>
+City of <hi>London:</hi> who, after their return of Thanks to both Houſes for their condeſcen<g ref="char:EOLhyphen"/>tion, in Declaring to them their aforeſaid Proceedings, Did Declare themſelves fully ſatisfied therewith; and did deſire, That the Houſes would be pleaſed to publiſh the ſame in Print, for the Satisfaction of other their fellow-Citizens, and Subjects of the Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
